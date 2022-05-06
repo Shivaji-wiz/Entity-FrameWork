@@ -13,3 +13,9 @@ Migrations in Code First Model
 Overriding Code-First Conventions : using Data Annotations
 
 Overriding Code-First Conventions : using Fluent API
+
+Querying Data Using LINQ
+
+LINQ syntax 
+
+LINQ Extension Methods
