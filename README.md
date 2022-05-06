@@ -19,3 +19,7 @@ Querying Data Using LINQ
 LINQ syntax 
 
 LINQ Extension Methods
+
+Loading Related Objects
+
+Lazy Loading
