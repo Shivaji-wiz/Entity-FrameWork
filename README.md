@@ -37,3 +37,5 @@ Updating Object
 Removing Object
 
 Working With ChangeTracker
+
+LINQPad
