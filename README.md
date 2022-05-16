@@ -39,3 +39,5 @@ Removing Object
 Working With ChangeTracker
 
 LINQPad
+
+Repository Pattern
